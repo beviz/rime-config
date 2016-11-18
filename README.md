@@ -1,1 +1,1 @@
-# rime-config
+# rime-config for myself
